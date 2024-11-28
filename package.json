@@ -1,7 +1,7 @@
 {
-  "name": "coffee-shop",
+  "name": "fuel-station",
   "version": "1.0.0",
-  "description": "Coffee Shop Management System",
+  "description": "Fuel Station Management System",
   "main": "server.js",
   "type": "module",
   "scripts": {
